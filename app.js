@@ -89,6 +89,12 @@ const participants = [{
         address: "Ungaran, Indonesia",
     },
     {
+        name: "Muhammad Dimas Aditya",
+        github: "am-523",
+        image: "images/projectam.jpg",
+        address: "Aceh, Indonesia",
+    },
+    {
         name: "Muhammad Vika Putra Pangestu",
         github: "xmvkpst",
         image: "images/vika.jpg",
